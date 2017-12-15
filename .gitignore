@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+.idea/*
+chenhaifeng.net.iml
+Gemfile
+Gemfile.lock
+_site/
+_site/*
